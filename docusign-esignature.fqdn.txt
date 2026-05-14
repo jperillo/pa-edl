@@ -11,7 +11,6 @@ dsucustomers.docusign.com
 ecom.docusign.com
 events.docusign.com
 fonts.gstatic.com
-hermes.docusign.com
 images.ctfassets.net
 investor.docusign.com
 momentum.docusign.com
@@ -25,6 +24,7 @@ twitter.com
 www.dmarc.org
 www.docusign.com
 www.facebook.com
+www.googletagmanager.com
 www.linkedin.com
 www.open-spf.org
 www.w3.org
