@@ -1,14 +1,14 @@
 {
-  "last_publish_iso": "2026-05-20T11:48:50+00:00",
+  "last_publish_iso": "2026-05-20T11:48:52+00:00",
   "summary": {
     "sources_total": 3,
     "sources_ok": 3,
     "sources_error": 0,
-    "total_duration_ms": 1367
+    "total_duration_ms": 1576
   },
   "last_run": {
-    "finished_iso": "2026-05-20T11:48:50+00:00",
-    "total_duration_ms": 1367,
+    "finished_iso": "2026-05-20T11:48:52+00:00",
+    "total_duration_ms": 1576,
     "sources": [
       {
         "name": "cloudflare-ips-v4",
@@ -29,10 +29,10 @@
         "extracted": 436,
         "valid": 436,
         "dropped": 0,
-        "duration_ms": 468,
+        "duration_ms": 531,
         "error": null,
-        "started_iso": "2026-05-19T11:48:49+00:00",
-        "finished_iso": "2026-05-19T11:48:50+00:00"
+        "started_iso": "2026-05-20T11:48:49+00:00",
+        "finished_iso": "2026-05-20T11:48:50+00:00"
       },
       {
         "name": "docusign-esignature",
@@ -41,10 +41,10 @@
         "extracted": 83,
         "valid": 32,
         "dropped": 51,
-        "duration_ms": 740,
+        "duration_ms": 886,
         "error": null,
-        "started_iso": "2026-05-19T11:48:49+00:00",
-        "finished_iso": "2026-05-19T11:48:50+00:00"
+        "started_iso": "2026-05-20T11:48:49+00:00",
+        "finished_iso": "2026-05-20T11:48:50+00:00"
       }
     ]
   }
