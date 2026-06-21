@@ -1,14 +1,14 @@
 {
-  "last_publish_iso": "2026-06-20T08:01:52+00:00",
+  "last_publish_iso": "2026-06-21T08:01:46+00:00",
   "summary": {
     "sources_total": 4,
     "sources_ok": 4,
     "sources_error": 0,
-    "total_duration_ms": 1801
+    "total_duration_ms": 1797
   },
   "last_run": {
-    "finished_iso": "2026-06-20T08:01:52+00:00",
-    "total_duration_ms": 1801,
+    "finished_iso": "2026-06-21T08:01:46+00:00",
+    "total_duration_ms": 1797,
     "sources": [
       {
         "name": "cloudflare-ips-v4",
@@ -17,10 +17,10 @@
         "extracted": 15,
         "valid": 15,
         "dropped": 0,
-        "duration_ms": 121,
+        "duration_ms": 117,
         "error": null,
-        "started_iso": "2026-06-20T08:01:46+00:00",
-        "finished_iso": "2026-06-20T08:01:46+00:00"
+        "started_iso": "2026-06-21T08:01:46+00:00",
+        "finished_iso": "2026-06-21T08:01:46+00:00"
       },
       {
         "name": "digicert-cert-status-ipv4",
