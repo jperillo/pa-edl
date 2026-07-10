@@ -1,5 +1,5 @@
 {
-  "last_publish_iso": "2026-07-10T17:29:34+00:00",
+  "last_publish_iso": "2026-07-10T17:29:36+00:00",
   "summary": {
     "sources_total": 4,
     "sources_ok": 4,
@@ -7,7 +7,7 @@
     "total_duration_ms": 1696
   },
   "last_run": {
-    "finished_iso": "2026-07-10T17:29:34+00:00",
+    "finished_iso": "2026-07-10T17:29:36+00:00",
     "total_duration_ms": 1696,
     "sources": [
       {
