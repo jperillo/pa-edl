@@ -5,7 +5,6 @@ com.docusign.ink
 community.docusign.com
 developers.docusign.com
 docucdn-a.akamaihd.net
-docusign.com
 docusign.onelink.me
 dsucustomers.docusign.com
 ecom.docusign.com
