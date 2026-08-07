@@ -1,14 +1,14 @@
 {
-  "last_publish_iso": "2026-08-06T07:48:23+00:00",
+  "last_publish_iso": "2026-08-07T07:48:16+00:00",
   "summary": {
     "sources_total": 4,
     "sources_ok": 4,
     "sources_error": 0,
-    "total_duration_ms": 1938
+    "total_duration_ms": 1930
   },
   "last_run": {
-    "finished_iso": "2026-08-06T07:48:23+00:00",
-    "total_duration_ms": 1938,
+    "finished_iso": "2026-08-07T07:48:16+00:00",
+    "total_duration_ms": 1930,
     "sources": [
       {
         "name": "cloudflare-ips-v4",
@@ -53,10 +53,10 @@
         "extracted": 39,
         "valid": 39,
         "dropped": 0,
-        "duration_ms": 178,
+        "duration_ms": 170,
         "error": null,
-        "started_iso": "2026-08-06T07:48:16+00:00",
-        "finished_iso": "2026-08-06T07:48:16+00:00"
+        "started_iso": "2026-08-07T07:48:16+00:00",
+        "finished_iso": "2026-08-07T07:48:16+00:00"
       }
     ]
   }
