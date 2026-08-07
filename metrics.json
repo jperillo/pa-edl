@@ -1,14 +1,14 @@
 {
-  "last_publish_iso": "2026-08-07T07:48:16+00:00",
+  "last_publish_iso": "2026-08-07T07:48:19+00:00",
   "summary": {
     "sources_total": 4,
     "sources_ok": 4,
     "sources_error": 0,
-    "total_duration_ms": 1930
+    "total_duration_ms": 2422
   },
   "last_run": {
-    "finished_iso": "2026-08-07T07:48:16+00:00",
-    "total_duration_ms": 1930,
+    "finished_iso": "2026-08-07T07:48:19+00:00",
+    "total_duration_ms": 2422,
     "sources": [
       {
         "name": "cloudflare-ips-v4",
@@ -17,10 +17,10 @@
         "extracted": 15,
         "valid": 15,
         "dropped": 0,
-        "duration_ms": 113,
+        "duration_ms": 187,
         "error": null,
-        "started_iso": "2026-08-06T07:48:16+00:00",
-        "finished_iso": "2026-08-06T07:48:16+00:00"
+        "started_iso": "2026-08-07T07:48:16+00:00",
+        "finished_iso": "2026-08-07T07:48:16+00:00"
       },
       {
         "name": "digicert-cert-status-ipv4",
@@ -29,10 +29,10 @@
         "extracted": 0,
         "valid": 0,
         "dropped": 0,
-        "duration_ms": 961,
+        "duration_ms": 898,
         "error": null,
-        "started_iso": "2026-08-06T07:48:16+00:00",
-        "finished_iso": "2026-08-06T07:48:17+00:00"
+        "started_iso": "2026-08-07T07:48:16+00:00",
+        "finished_iso": "2026-08-07T07:48:17+00:00"
       },
       {
         "name": "docusign-esignature",
@@ -41,10 +41,10 @@
         "extracted": 83,
         "valid": 32,
         "dropped": 51,
-        "duration_ms": 686,
+        "duration_ms": 1167,
         "error": null,
-        "started_iso": "2026-08-06T07:48:16+00:00",
-        "finished_iso": "2026-08-06T07:48:17+00:00"
+        "started_iso": "2026-08-07T07:48:16+00:00",
+        "finished_iso": "2026-08-07T07:48:17+00:00"
       },
       {
         "name": "salesforce-ip-ranges",
