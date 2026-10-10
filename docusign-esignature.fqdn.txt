@@ -1,6 +1,7 @@
 apps.apple.com
 apps.docusign.com
 careers.docusign.com
+cdn.optimizely.com
 com.docusign.ink
 community.docusign.com
 developers.docusign.com
